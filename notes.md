@@ -1,3 +1,12 @@
+-- forked from someone's "lsnotes" (from luis's video)
+-- cloned
+-- in folder, rm -rf .git (removes original history)
+-- create new repo (no readme or other files, since they are already going to be there in this case)
+-- in folder, git init
+-- in folder, git remote add origin https//github...etc (get from the repo url)
+-- now you can see all files in new repo
+
+
 - Create Heroku account on heroku.com
 - Install the heroku CLI
 - Create new application for you API
